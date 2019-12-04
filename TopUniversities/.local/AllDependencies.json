@@ -1619,9 +1619,9 @@
     "restore": {
       "projectUniqueName": "TopUniversities",
       "projectName": "TopUniversities",
-      "projectPath": "C:\\Users\\Rayudu_Addagarla\\Documents\\UiPath\\TopUniversities\\.local",
+      "projectPath": "C:\\Users\\Rayudu_Addagarla\\Documents\\UiPath\\gitpublic\\TopUniversities\\.local",
       "packagesPath": "C:\\Users\\Rayudu_Addagarla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rayudu_Addagarla\\Documents\\UiPath\\TopUniversities\\.local"
+      "outputPath": "C:\\Users\\Rayudu_Addagarla\\Documents\\UiPath\\gitpublic\\TopUniversities\\.local"
     },
     "frameworks": {
       "net461": {
